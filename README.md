@@ -1,2 +1,4 @@
-# analysis
-Used Excel to indentify patterns and trends and create a interactive chart
+# Data analysis
+Used Excel to indentify patterns and trends and create a interactive chart leveraging pivot charts. 
+
+
